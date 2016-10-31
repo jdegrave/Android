@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Seeds That Feed</string>
+    <string name="action_settings">Settings</string>
+    <string name="stf_logo">Seeds that Feed logo</string>
+    <string-array name="options">
+        <item>Contacts</item>
+        <item>Distribution Locations</item>
+        <item>Partners</item>
+        <item>Suppliers</item>
+        <item>Produce</item>
+    </string-array>
+    <string name="title_activity_produce_category">ProduceCategoryActivity</string>
+    <string name="title_activity_produce_list">ProduceListActivity</string>
+    <string name="title_activity_fruit">FruitActivity</string>
+    <string name="pic">Image</string>
+    <string name="fruit_type">Fruit</string>
+    <string name="fruit_hue">Color</string>
+    <string name="fruit_count">Qty</string>
+    <string name="total_count">Total</string>
+
+</resources>
