@@ -1,8 +1,8 @@
-#Seeds that Feed Android App
+# Seeds that Feed Android App
 [Seeds that Feed](https://seedsfeed.org) distributes locally-sourced, fresh produce to disenfranchised and lower economic members of the community. 
 This app was  my final project for my Java course (Dec 2015). 
 
-##Final Project Requirements
+## Final Project Requirements
 1. Define a class
 2. Instantiate a class
 3. At least one selection statement
@@ -15,7 +15,7 @@ This app was  my final project for my Java course (Dec 2015).
 6. Requirements Document
 
 
-###NOTE:  Please review the documentation to formulate a better picture of what the finished product will be. 
+### NOTE:  Please review the documentation to formulate a better picture of what the finished product will be. 
           Due to time limitations in the course, there is no user input (yet) in this app.
 
 
